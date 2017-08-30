@@ -1,0 +1,852 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List
+href="ISP%20Data%20Cost%20Comparison%20for%20Zambia%20-%2030.08.2017_files/filelist.xml">
+<style id="ISP Data Cost Comparison for Zambia - 30.08.2017_26374_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+.xl1526374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6326374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6426374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6526374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6626374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6726374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\\ \[$ZMW\]";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6826374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\.00\\ \[$ZMW\]";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#92D050;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6926374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\.00\\ \[$ZMW\]";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7026374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\.00\\ \[$ZMW\]";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#92D050;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7126374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\.00\\ \[$ZMW\]";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:black;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7226374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7326374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\.00\\ \[$ZMW\]";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:black;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7426374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7526374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7626374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7726374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7826374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\\ \[$ZMW\]";
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7926374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8026374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#00B0F0;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8126374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#00B0F0;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8226374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:red;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8326374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:red;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8426374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:red;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8526374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:yellow;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8626374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8726374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8826374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:#92D050;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8926374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:#92D050;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9026374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:black;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9126374
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:black;
+	mso-pattern:black none;
+	white-space:nowrap;}
+-->
+</style>
+<title>ISP Data Cost Comparison for Zambia - 30.08.2017</title>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="ISP Data Cost Comparison for Zambia - 30.08.2017_26374" align=center
+x:publishsource="Excel">
+
+<h1 style='color:black;font-family:Calibri;font-size:14.0pt;font-weight:800;
+font-style:normal'>ISP Data Cost Comparison for Zambia - 30.08.2017</h1>
+
+<table border=0 cellpadding=0 cellspacing=0 width=811 style='border-collapse:
+ collapse;table-layout:fixed;width:608pt'>
+ <col width=70 style='mso-width-source:userset;mso-width-alt:2503;width:53pt'>
+ <col width=63 style='mso-width-source:userset;mso-width-alt:2247;width:47pt'>
+ <col width=92 span=2 style='mso-width-source:userset;mso-width-alt:3271;
+ width:69pt'>
+ <col width=63 style='mso-width-source:userset;mso-width-alt:2247;width:47pt'>
+ <col width=92 span=2 style='mso-width-source:userset;mso-width-alt:3271;
+ width:69pt'>
+ <col width=63 style='mso-width-source:userset;mso-width-alt:2247;width:47pt'>
+ <col width=92 span=2 style='mso-width-source:userset;mso-width-alt:3271;
+ width:69pt'>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl7926374 width=70 style='height:15.6pt;width:53pt'>&nbsp;</td>
+  <td colspan=3 class=xl8026374 width=247 style='border-right:.5pt solid black;
+  width:185pt'>HAI</td>
+  <td colspan=3 class=xl8226374 width=247 style='border-right:.5pt solid black;
+  border-left:none;width:185pt'>VODAFONE</td>
+  <td colspan=3 class=xl8526374 width=247 style='border-right:.5pt solid black;
+  border-left:none;width:185pt'>MTN (Home Internet)</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl7426374 style='height:14.4pt'>Setup Cost</td>
+  <td class=xl7626374 style='border-top:none'>&nbsp;</td>
+  <td class=xl7626374 style='border-top:none'>?</td>
+  <td class=xl7726374 style='border-top:none'>&nbsp;</td>
+  <td class=xl7626374 style='border-top:none'>&nbsp;</td>
+  <td class=xl7626374 style='border-top:none'>?</td>
+  <td class=xl7726374 style='border-top:none'>&nbsp;</td>
+  <td class=xl7626374 style='border-top:none'>&nbsp;</td>
+  <td class=xl7826374 style='border-top:none'>999 ZMW</td>
+  <td class=xl7726374 style='border-top:none'>4G Router</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl7526374 style='height:14.4pt;border-top:none'>Range
+  (GB)</td>
+  <td class=xl6426374 style='border-top:none'>Data (GB)</td>
+  <td class=xl6426374 style='border-top:none'>Price (ZMW)</td>
+  <td class=xl6526374 style='border-top:none'>Cost/GB</td>
+  <td class=xl6426374 style='border-top:none'>Data (GB)</td>
+  <td class=xl6426374 style='border-top:none'>Price (ZMW)</td>
+  <td class=xl6526374 style='border-top:none'>Cost/GB</td>
+  <td class=xl6426374 style='border-top:none'>Data (GB)</td>
+  <td class=xl6426374 style='border-top:none'>Price (ZMW)</td>
+  <td class=xl6526374 style='border-top:none'>Cost/GB</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl7226374 style='height:14.4pt;border-top:none'>0-19</td>
+  <td class=xl6626374 style='border-top:none'>15</td>
+  <td class=xl6726374 style='border-top:none'>390 ZMW</td>
+  <td class=xl7326374 style='border-top:none'>26,00 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>15</td>
+  <td class=xl6726374 style='border-top:none'>370 ZMW</td>
+  <td class=xl6826374 style='border-top:none'>24,67 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>10</td>
+  <td class=xl6726374 style='border-top:none'>260 ZMW</td>
+  <td class=xl7326374 style='border-top:none'>26,00 ZMW</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl7226374 style='height:14.4pt;border-top:none'>20-29</td>
+  <td class=xl6626374 style='border-top:none'>-</td>
+  <td class=xl6726374 style='border-top:none'>-</td>
+  <td class=xl6926374 style='border-top:none'>-</td>
+  <td class=xl6626374 style='border-top:none'>25</td>
+  <td class=xl6726374 style='border-top:none'>570 ZMW</td>
+  <td class=xl6826374 style='border-top:none'>22,80 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>20</td>
+  <td class=xl6726374 style='border-top:none'>500 ZMW</td>
+  <td class=xl7126374 style='border-top:none'>25,00 ZMW</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl7226374 style='height:14.4pt;border-top:none'>30-49</td>
+  <td class=xl6626374 style='border-top:none'>35</td>
+  <td class=xl6726374 style='border-top:none'>790 ZMW</td>
+  <td class=xl6826374 style='border-top:none'>22,57 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>-</td>
+  <td class=xl6726374 style='border-top:none'>-</td>
+  <td class=xl6926374 style='border-top:none'>-</td>
+  <td class=xl6626374 style='border-top:none'>30</td>
+  <td class=xl6726374 style='border-top:none'>690 ZMW</td>
+  <td class=xl7126374 style='border-top:none'>23,00 ZMW</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl7226374 style='height:14.4pt;border-top:none'>50-69</td>
+  <td class=xl6626374 style='border-top:none'>50</td>
+  <td class=xl6726374 style='border-top:none'>990 ZMW</td>
+  <td class=xl6826374 style='border-top:none'>19,80 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>50</td>
+  <td class=xl6726374 style='border-top:none'>1 099 ZMW</td>
+  <td class=xl7126374 style='border-top:none'>21,98 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>50</td>
+  <td class=xl6726374 style='border-top:none'>1 050 ZMW</td>
+  <td class=xl6926374 style='border-top:none'>21,00 ZMW</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl7226374 style='height:14.4pt;border-top:none'>70-100</td>
+  <td class=xl6626374 style='border-top:none'>100</td>
+  <td class=xl6726374 style='border-top:none'>1 590 ZMW</td>
+  <td class=xl7026374 style='border-top:none'>15,90 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>100</td>
+  <td class=xl6726374 style='border-top:none'>1 899 ZMW</td>
+  <td class=xl6926374 style='border-top:none'>18,99 ZMW</td>
+  <td class=xl6626374 style='border-top:none'>70</td>
+  <td class=xl6726374 style='border-top:none'>1 350 ZMW</td>
+  <td class=xl7126374 style='border-top:none'>19,29 ZMW</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl1526374 style='height:14.4pt'></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl6326374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl1526374 style='height:14.4pt'></td>
+  <td class=xl6326374>KEY</td>
+  <td colspan=2 class=xl8826374>Chepeast in Range</td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl1526374 style='height:14.4pt'></td>
+  <td class=xl1526374></td>
+  <td colspan=2 class=xl9126374>Most Espensive in Range</td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl1526374 style='height:14.4pt'></td>
+  <td class=xl1526374></td>
+  <td colspan=2 class=xl8926374>Best Overall Deal</td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl1526374 style='height:14.4pt'></td>
+  <td class=xl1526374></td>
+  <td colspan=2 class=xl9026374>Worst Overall Deal</td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+  <td class=xl1526374></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=70 style='width:53pt'></td>
+  <td width=63 style='width:47pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=63 style='width:47pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=63 style='width:47pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
